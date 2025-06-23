@@ -211,7 +211,7 @@ const Contact = () => {
             <div className="bg-gray-800/50 backdrop-blur-xl p-8 rounded-3xl border border-gray-700 max-w-2xl mx-auto">
               <div className="flex items-center justify-center space-x-3 mb-4">
                 <MapPin className="h-6 w-6 text-purple-400" />
-                <h3 className="text-xl font-bold text-white">Based in Lagos, Nigeria</h3>
+                <h3 className="text-xl font-bold text-white">Based in Abuja, Nigeria</h3>
               </div>
               <p className="text-gray-300 mb-6 leading-relaxed">
                 We're available 24/7 to discuss your project and bring your digital dreams to life. 
